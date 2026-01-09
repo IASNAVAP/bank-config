@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to pavan bank loans related local APIs "
+  contactDetails:
+    name: "pavan - Developer"
+    email: "pavan@bank.com"
+  onCallSupport:
+    - 12345678965

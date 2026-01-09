@@ -1,0 +1,10 @@
+accounts:
+  message: "welcome to pavan's bank accounts QA region"
+  contactDetails:
+    name: "pavan"
+    email: "pavan@bank.com"
+  onCallSupport:
+    - "234567890"
+
+build:
+  version: "2.0"

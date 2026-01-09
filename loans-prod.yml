@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to pavan bank loans related local prod APIs "
+  contactDetails:
+    name: "pavan - prod Developer"
+    email: "pavan@bank.com"
+  onCallSupport:
+    - 12345678965

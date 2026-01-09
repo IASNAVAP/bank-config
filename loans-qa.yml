@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to pavan bank loans related local QA APIs "
+  contactDetails:
+    name: "pavan - QA Developer"
+    email: "pavan@bank.com"
+  onCallSupport:
+    - 12345678965

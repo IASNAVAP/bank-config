@@ -1,0 +1,10 @@
+build:
+  version: "0.1"
+
+cards:
+  message: "Welcome to pavan bank"
+  contactDetails:
+    name: "pavan"
+    email: "pavan@gmail.com"
+  onCallSupport:
+    - 123456789

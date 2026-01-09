@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to pavan bank QA region"
+  contactDetails:
+    name: "pavan"
+    email: "pavan@gmail.com"
+  onCallSupport:
+    - 123456789
+
