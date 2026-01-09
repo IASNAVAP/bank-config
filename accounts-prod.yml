@@ -2,9 +2,10 @@ accounts:
   message: "welcome to pavan's bank accounts prod region"
   contactDetails:
     name: "pavan"
-    email: "pavan@bank.com"
+    email: "{cipher}4f999f8a9ad62213219e500e9e86aeb0c23c7cb5baf0bb5cf91009eb3dfe4dca"
   onCallSupport:
     - "234567890"
 
 build:
+
   version: "1.0"
