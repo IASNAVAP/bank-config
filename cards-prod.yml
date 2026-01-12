@@ -2,10 +2,11 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to pavan bank prod region"
+  message: "Welcome to pavan bank production region"
   contactDetails:
     name: "pavan"
     email: "pavan@gmail.com"
   onCallSupport:
     - 123456789
+
 
