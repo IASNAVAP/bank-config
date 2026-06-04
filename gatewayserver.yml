@@ -17,3 +17,7 @@ spring:
           enabled: true
           lower-case-service-id: true
       
+logging:
+  level:
+    org.springframework.cloud.gateway.discovery: TRACE
+    org.springframework.cloud.gateway.route: TRACE
