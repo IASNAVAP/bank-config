@@ -9,15 +9,3 @@ eureka:
     fetchRegistry: true
     serviceUrl:
       defaultZone: "http://localhost:8070/eureka/"
-spring:
-  cloud:
-    gateway:
-      discovery:
-        locator:
-          enabled: true
-          lower-case-service-id: true
-      
-logging:
-  level:
-    org.springframework.cloud.gateway.discovery: TRACE
-    org.springframework.cloud.gateway.route: TRACE
